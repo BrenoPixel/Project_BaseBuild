@@ -1,0 +1,16 @@
+2a60927148abd1d33b818b535e306557
+::res://::1689714879
+icon.svg::CompressedTexture2D::1353133813443638685::1689714837::1689714837::1::::<><>::
+::res://assets/::1689714836
+::res://assets/BGs/::1689714836
+BG_Clouds1.png::CompressedTexture2D::4741237935482964690::1689714836::1689714836::1::::<><>::
+BG_Mountains1.png::CompressedTexture2D::1964860331292753821::1689714836::1689714836::1::::<><>::
+BG_Sky1.png::CompressedTexture2D::8966745432448320236::1689714836::1689714836::1::::<><>::
+Tile_Ground1.png::CompressedTexture2D::3707969460829437474::1689714836::1689714836::1::::<><>::
+Tile_Ground2.png::CompressedTexture2D::6257777328109956939::1689714836::1689714836::1::::<><>::
+::res://assets/Character/::1689714836
+Chara_Sprite.png::CompressedTexture2D::5244853720377498457::1689714836::1689714836::1::::<><>::
+::res://scenes/::1689714836
+base.tscn::PackedScene::7685712461599518338::1689714836::0::1::::<><>::uid://d00s8thqklh2c<>res://scripts/character.gd<>uid://cgyv8erouuwir<>uid://b8sxq4qqdps4i<>uid://bs3fyk4ky7og5<>uid://2817y0rjcamf<>uid://cvfkxce0ed2sd
+::res://scripts/::1689714836
+character.gd::GDScript::-1::1689714836::0::1::::<>CharacterBody2D<>::
